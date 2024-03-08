@@ -3,6 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/chagas_duarte)
 
 ![Chagas GitHub stats](https://github-readme-stats.vercel.app/api?username=chagasduarte&show_icons=true&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ## Tecnologias que utilizo no meu dia a dia
 <div style="display: inline_block">
@@ -15,4 +16,3 @@
   <img align="center" alt="sqlserver" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chagasduarte&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
