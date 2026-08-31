@@ -72,18 +72,6 @@ Também tenho experiência com projetos dos setores de **tecnologia, seguros e i
 
 <div align="center">
 
-  <img 
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=chagasduarte&show_icons=true&theme=github_dark"
-    alt="Estatísticas do GitHub de Chagas Duarte"
-  />
-
-  <img 
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=chagasduarte&layout=compact&theme=github_dark"
-    alt="Linguagens mais utilizadas"
-  />
-
 </div>
 ---
 
