@@ -1,17 +1,99 @@
-### Olá!! Meu nome é Chagas Duarte! 🖐️
-### Sou desenvolvedor fullstack
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chagasduarte/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/chagas_duarte)
+# Olá! Eu sou Chagas Duarte 👋
 
-![Chagas GitHub stats](https://github-readme-stats.vercel.app/api?username=chagasduarte&show_icons=true&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chagasduarte&layout=compact)
+### Desenvolvedor Full Stack | C#/.NET | Angular
 
-## Tecnologias que utilizo no meu dia a dia
-<div style="display: inline_block">
-  <img align="center" alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
-  <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img align="center" alt="sqlserver" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-  <img align="center" alt="rabbitmq" src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-</div><br/>
+Sou desenvolvedor de software com experiência no desenvolvimento, manutenção e modernização de aplicações corporativas, atuando principalmente com **C#/.NET e Angular**.
+
+Tenho experiência com desenvolvimento de **APIs REST, microsserviços, integrações entre sistemas, bancos relacionais e não relacionais**, além de aplicações web modernas com Angular e TypeScript.
+
+Atualmente, trabalho com soluções voltadas para **busca, recomendação e e-commerce**, utilizando tecnologias como MongoDB, Redis, Elasticsearch e Vespa.
+
+Também tenho experiência com projetos dos setores de **tecnologia, seguros e indústria**, trabalhando com modernização de sistemas legados, integrações, performance de banco de dados e desenvolvimento de soluções full stack.
+
+---
+
+## 🚀 Principais tecnologias
+
+### Back-end
+
+<div>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
+</div>
+
+### Front-end
+
+<div>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</div>
+
+### Bancos de dados e busca
+
+<div>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+</div>
+
+### DevOps, Cloud e Mensageria
+
+<div>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</div>
+
+---
+
+## 💻 Sobre o que gosto de trabalhar
+
+- Desenvolvimento de aplicações Full Stack
+- APIs REST e microsserviços
+- Arquiteturas com C#/.NET
+- Aplicações web com Angular e TypeScript
+- Integrações entre sistemas
+- Performance e modelagem de bancos de dados
+- Sistemas distribuídos e mensageria
+- Modernização de aplicações legadas
+- Clean Code, SOLID e Design Patterns
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chagasduarte&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chagasduarte&layout=compact&langs_count=8&theme=github_dark"/>
+
+</div>
+
+---
+
+## 📫 Contato
+
+<div>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chagas_Duarte-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chagasduarte/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-chagasduarte-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chagasduarte)
+
+[![Instagram](https://img.shields.io/badge/Instagram-chagas__duarte-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/chagas_duarte)
+
+</div>
+
+---
+
+<p align="center">
+  Sempre aprendendo, construindo e buscando novos desafios. 🚀
+</p>
